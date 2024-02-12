@@ -1,4 +1,12 @@
-### Hi there 👋
+<br>
+Hi 👋 I am [Sheeba Abraham](https://isheeba.com/) ! <br>
+I am an Independent developer, I specialize in WordPress Customization.  <br>
+<br>
+You'll be able to connect with me on Linkedin.<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/in/sheebaabraham/)
+ 
+
 
 <!--
 **isheeba/isheeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
