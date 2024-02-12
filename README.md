@@ -1,10 +1,10 @@
-<br>
-Hi 👋 I am [Sheeba Abraham](https://isheeba.com/) ! <br>
-I am an Independent developer, I specialize in WordPress Customization.  <br>
-<br>
-You'll be able to connect with me on Linkedin.<br>
+  
+Hi 👋 I am  **[Sheeba Abraham](https://iSheeba.com)**, an Independent developer. I specialize in WordPress Customization.  
+ 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/in/sheebaabraham/)
+You'll be able to connect with me on Linkedin.  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/sheebaabraham/)
  
 
 
