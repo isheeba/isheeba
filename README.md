@@ -1,11 +1,6 @@
   
 Hi 👋 I am  **[Sheeba Abraham](https://iSheeba.com)**, an Independent developer. I specialize in WordPress Customization.  
 
-![](https://raw.githubusercontent.com/isheeba/git-stats/master/generated/overview.svg#gh-dark-mode-only)
- 
- 
-![](https://raw.githubusercontent.com/isheeba/git-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 You'll be able to connect with me on Linkedin.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheebaabraham/)](https://www.linkedin.com/in/sheebaabraham/)
