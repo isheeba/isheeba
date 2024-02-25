@@ -13,7 +13,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: isheeba/profile-stats
+      uses: isheeba/profile-stats@v3
       with:
         token: ${{ secrets.ACCESS_TOKEN }}
     - name: Update README.md
