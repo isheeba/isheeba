@@ -1,6 +1,12 @@
   
 Hi 👋 I am  **[Sheeba Abraham](https://iSheeba.com)**, an Independent developer. I specialize in WordPress Customization.  
 
+
+
+[![Git Streak](https://github-readme-streak-stats.herokuapp.com?user=isheeba&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+ 
+ 
 You'll be able to connect with me on Linkedin.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheebaabraham/)](https://www.linkedin.com/in/sheebaabraham/)
